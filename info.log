@@ -1,0 +1,6 @@
+{"message":"Bookmark with id 11 not fount","level":"error"}
+{"message":"Bookmark with id cb4d7f87-4b01-488f-849f-9c2c5a98a303 created","level":"info"}
+{"message":"Bookmark with id cb4d7f87-4b01-488f-849f-9c2c5a98a303 not found.","level":"error"}
+{"message":"Bookmark with id cb4d7f87-4b01-488f-849f-9c2c5a98a303 not fount","level":"error"}
+{"message":"Bookmark with id 6c26fc55-7bde-4c74-bad3-9133c3a22373 created","level":"info"}
+{"message":"Bookmark with id 6c26fc55-7bde-4c74-bad3-9133c3a22373 deleted.","level":"info"}
